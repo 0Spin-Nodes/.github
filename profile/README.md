@@ -18,7 +18,7 @@
 | OG LABS  | 🟢Working  | [Click fo more](https://github.com/0Spin-Nodes#0g-labs) |
 | NUBIT  | 🟢Working  | [Click fo more](https://github.com/0Spin-Nodes#nubit) |
 | VERSATUS  | 🟢Working | [Click fo more](https://medium.com/@0spin/versatus-lasr-a-new-era-for-smart-contract-platforms-269b2ca984c7) |
-| KWIL  | 🟠in progress  | - |
+| KWIL  | 🟢Working  | [Click fo more](https://github.com/0Spin-Nodes/kwil_node_guide/tree/main) |
 | FRACTAL  | 🟠in progress  | - |
 | CLOVER  | 🔴Stopped  | - |
 | BOUNCEBIT  | 🔴Stopped  | - |
